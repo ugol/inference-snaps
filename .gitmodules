@@ -90,3 +90,8 @@
 	path = snaps/nemotron-3.5-super-vl
 	url = https://github.com/canonical/nemotron-3.5-super-vl-snap.git
 	branch = main
+
+[submodule "kokoro-snap"]
+	path = snaps/kokoro
+	url = https://github.com/ugol/kokoro-snap
+	branch = main
